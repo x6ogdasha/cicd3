@@ -3,16 +3,16 @@ class Calc:
       pass
    
    def plus(self,a,b):
-      print(a+b)
+      return a+b
    
    def umn(self,a,b):
-      print(a*b)
+      return a*b
       
    def minus(self,a,b):
-      print(a-b)
+      return a-b
    
    def delen(self,a,b):
-      print(a/b)
+      return a/b
 
    def mod(self,a,b):
-      print(a%b)
+      return a%b
